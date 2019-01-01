@@ -10,3 +10,7 @@
 @import "~admin-lte/dist/css/adminlte.css";
 @import "~font-awesome/scss/font-awesome.scss";
 
+.router-link-active{
+  background-color: #007bff;
+  color: #fff !important;
+}
